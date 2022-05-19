@@ -1,5 +1,19 @@
 # chat-app
 
+## Project Description
+```
+This is a Chat Application that you can create a user,SignIn with the user,send a message and see the messages that send before.
+```
+
+
+## Project Deployment
+```
+https://vue-chatt-app.herokuapp.com/
+```
+
+
+
+
 ## Project setup
 ```
 npm install
